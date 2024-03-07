@@ -12,7 +12,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-00428,0211,1/12/17,Possession of Marijuana,Delaware Ave,Civil Assessment,12,1,2017
 17-00518,0115,1/14/17,Public Intoxication,N College Ave/Cleveland Ave,Arrest,14,1,2017
 17-00519,0118,1/14/17,Damaged Property,Ed Fine Parking Lot,Pending,14,1,2017
-17-00520,0139,1/14/17,DUI,W Main ST,Arrest,14,1,2017
+17-00520,0139,1/14/17,DUI,W Main St,Arrest,14,1,2017
 17-00561,0148,1/15/17,DUI,E Main St/S College Ave,Arrest,15,1,2017
 17-00576,1619,1/15/17,Graffiti,Russell D,Pending,15,1,2017
 17-00616,1643,1/12/17,Theft,Harker ISE Lab,Pending,12,1,2017
@@ -384,7 +384,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-06883,1659,5/19/17,Theft,George Read Hall,Pending,19,5,2017
 17-06903,2207,5/19/17,Theft,Harrington Commons,Pending,19,5,2017
 17-06921,0151,5/20/17,Underage Consumption,George Read Hall,Administrative Sanction,20,5,2017
-17-06922,0203,5/20/17,Underage Consumption,New London Ave/W Cleveland Ave,Administrative Sanction,20,5,2017
+17-06922,0203,5/20/17,Underage Consumption,New London Rd/Cleveland Ave,Administrative Sanction,20,5,2017
 17-06938,1055,1/1/17,Theft,Christiana Towers,Pending,1,1,2017
 17-06947,1656,5/20/17,Assist Other Agency,Lambda Chi Alpha House,Administrative Sanction,20,5,2017
 17-06954,1824,4/14/17,Fraud,Ray Street Hall B,Pending,14,4,2017
@@ -423,11 +423,11 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-07891,0130,6/9/17,DUI,New London Rd/Christiana Dr,Arrest,9,6,2017
 17-08019,0903,6/11/17,Possession of Marijuana,S Main St/Delaware Ave,Civil Assessment,11,6,2017
 17-08034,1319,6/11/17,Disorderly Conduct,Bob Carpenter Center,Arrest,11,6,2017
-17-08071,1239,6/12/17,Motor Vehicle Collision (Hit & Run),Maintenance Circle,Pending,12,6,2017
+17-08071,1239,6/12/17,Motor Vehicle Collision (Hit & Run),Maintenance Center,Pending,12,6,2017
 17-08173,1842,6/11/17,Motor Vehicle Collision (Hit & Run),Bob Carpenter Center,Pending,11,6,2017
 17-08317,0245,6/18/17,DUI,S College Ave/Marvin Dr,Arrest,18,6,2017
 17-08336,1912,6/18/17,Theft,Harrington Hall B,Arrest,18,6,2017
-17-08357,0825,6/19/17,Theft,Academy Building,Pending,19,6,2017
+17-08357,0825,6/19/17,Theft,Academy Residence Hall,Pending,19,6,2017
 17-08380,2159,6/19/17,Traffic Violation/Fugitve,Newark Country Club,Arrest,19,6,2017
 17-08453,1223,6/20/17,Theft,De Biotechnology Institute,Pending,20,6,2017
 17-08501,1803,6/22/17,Harassment,Colburn Lab,Pending,22,6,2017
@@ -455,7 +455,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-09192,1940,7/10/17,Disorderly Conduct,Carpenter Sport Building,Pending,10,7,2017
 17-09350,1159,7/12/17,Theft,Trabant University Center,Pending,12,7,2017
 17-09443,2316,7/16/17,Possession of Marijuana,S College Ave/Amstel Ave,Civil  Assessment,16,7,2017
-17-09485,2252,7/17/17,Public Intoxication,UD Thomas McKean,Exceptionally Clear,17,7,2017
+17-09485,2252,7/17/17,Public Intoxication,Thomas McKean Hall,Exceptionally Clear,17,7,2017
 17-09511,1431,7/18/17,Fugitive,Barnes & Noble Bookstore,Exceptionally Clear,18,7,2017
 17-09548,1019,7/11/17,Theft,Ray Street Hall B,Pending,11,7,2017
 17-09601,1635,7/20/17,Terroristic Threatening,The Internationale House,Exceptionally Clear,20,7,2017
@@ -474,7 +474,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-10153,0125,8/2/17,DUI,E Delaware Ave/Haines St,Arrest,2,8,2017
 17-10190,1447,8/2/17,DUI,Christiana Pkwy/S College Ave,Service Clear,2,8,2017
 17-10261,2305,8/2/17,Damaged Property,Amy DuPont Music Building,Pending,2,8,2017
-17-10313,0136,8/5/17,Underage Consumption,Amstel Sq Pkg Lot,Administrative Sanction,5,8,2017
+17-10313,0136,8/5/17,Underage Consumption,Amstel Ave,Administrative Sanction,5,8,2017
 17-10381,0144,8/6/17,Traffic Violation/Fugitve,N College Ave/W Main St,Exceptionally Clear,6,8,2017
 17-10384,0324,8/6/17,Underage Consumption,Memorial Hall,Administrative Sanction,6,8,2017
 17-10405,1634,8/4/17,Theft,Smith Hall,Pending,4,8,2017
@@ -805,7 +805,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 17-16049,0009,10/29/17,Underage Consumption,Brown Lab,Arrest,29,10,2017
 17-16057,0048,10/29/17,Public Intoxication,Continental Ave,Administrative Sanction,29,10,2017
 17-16062,0126,10/29/17,Public Intoxication,Benny St,Administrative Sanction,29,10,2017
-17-16065,0129,10/29/17,Underage Consumption,Wt Main St/N College Ave,Administrative Sanction,29,10,2017
+17-16065,0129,10/29/17,Underage Consumption,North College Ave/W Main St,Administrative Sanction,29,10,2017
 17-16069,0205,10/29/17,Underage Consumption,Barnes & Noble Bookstore,Administrative Sanction,29,10,2017
 17-16070,0152,10/29/17,Underage Consumption,Russell E,Administrative Sanction,29,10,2017
 17-16075,0233,10/29/17,Underage Consumption,Gilbert Hall,Administrative Sanction,29,10,2017
@@ -970,7 +970,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-00934,2205,1/20/18,Motor Vehicle Collision (Hit & Run),Perkins Parking Garage,Pending,20,1,2018
 18-00940,0133,1/21/18,DUI,W Main St,Service Clear,21,1,2018
 18-01003,1937,1/22/18,Theft,George Read Hall,Pending,22,1,2018
-18-01053,0643,1/22/18,Motor Vehicle Collision (Hit & Run),GSB Lot,Pending,22,1,2018
+18-01053,0643,1/22/18,Motor Vehicle Collision (Hit & Run),General Services Parking Lot,Pending,22,1,2018
 18-01143,1616,1/25/18,Shoplifting,Barnes & Noble Bookstore,Arrest,25,1,2018
 18-01174,1553,1/26/18,Trespass,Brown Lab,Pending,26,1,2018
 18-01227,0031,1/28/18,Damaged Property,Trabant University Center,Pending,28,1,2018
@@ -1024,9 +1024,9 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-02535,1617,2/19/18,Fugitive,Hillside Rd/W Main St,Arrest,19,2,2018
 18-02627,0005,2/21/18,Underage Consumption,Independence Hall East,Administrative Sanction,21,2,2018
 18-02652,1230,2/21/18,Offensive Touching,S College Ave,Pending,21,2,2018
-18-02687,0050,2/22/18,Terroristic Threatening,W Main Street,Arrest,22,2,2018
+18-02687,0050,2/22/18,Terroristic Threatening,W Main St,Arrest,22,2,2018
 18-02687,0050,2/22/18,Damaged Property,UDPD,Pending,22,2,2018
-18-02705,0927,2/22/18,Motor Vehicle Collision (Hit & Run),Academy Street Bldg,Pending,22,2,2018
+18-02705,0927,2/22/18,Motor Vehicle Collision (Hit & Run),Academy Residence Hall,Pending,22,2,2018
 18-02738,2111,2/22/18,Damaged Property,Trabant University Center,Pending,22,2,2018
 18-02751,0045,2/23/18,Underage Consumption,Pearson Hall,Arrest,23,2,2018
 18-02780,1421,2/21/18,Motor Vehicle Collision (Hit & Run),Perkins Parking Garage,Pending,21,2,2018
@@ -1075,7 +1075,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-03769,1604,3/11/18,Possession of Marijuana,Courtney St/Ashley Rd,Civil Assessment,11,3,2018
 18-03802,0835,3/10/18,Damaged Property,Caesar Rodney Dining Hall,Pending,10,3,2018
 18-03850,0253,3/13/18,Possession of Marijuana,S Main St/Amstel Ave,Civil Assessment,13,3,2018
-18-03873,1237,3/13/18,MV Collision,Maintenance Circle Fire Lane,Traffic Citation,13,3,2018
+18-03873,1237,3/13/18,MV Collision,Maintenance Center,Traffic Citation,13,3,2018
 18-03886,1801,3/13/18,Possession of Marijuana,E Delaware Ave/S Chapel St,Arrest,13,3,2018
 18-03910,0827,3/14/18,Graffiti,Pencader Dining Hall,Pending,14,3,2018
 18-03923,1201,3/14/18,Lewdness,Willard Hall,Pending,14,3,2018
@@ -1273,7 +1273,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-08155,1125,5/22/18,Theft,Willard Hall,Pending,22,5,2018
 18-08176,1627,5/21/18,Theft,Sharp Lab,Pending,21,5,2018
 18-08183,1855,5/22/18,Trespass,Hugh Morris Library,Exceptionally Clear,22,5,2018
-18-08218,0912,5/23/18,Trespass,UD Computing Center,Pending,23,5,2018
+18-08218,0912,5/23/18,Trespass,Computing Center,Pending,23,5,2018
 18-08236,1607,5/21/18,Theft,George Read Hall,Pending,21,5,2018
 18-08263,0006,5/24/18,Possession of Marijuana,Warner Hall,Civil Assessment,24,5,2018
 18-08315,1825,5/24/18,Possession of Marijuana,South Academy Residence Hall,Civil Assessment,24,5,2018
@@ -1286,7 +1286,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-08560,0113,5/29/18,DUI,Cleveland Ave/Wilbur St,Arrest,29,5,2018
 18-08618,0119,5/29/18,DUI,East Delaware Ave/S Chapel St,Arrest,29,5,2018
 18-08642,1131,5/30/18,Loitering,Dickinson E/F Commons,Arrest,30,5,2018
-18-08766,1745,6/1/18,Possession of Marijuana,New London Rd/ W Cleveland Ave,Arrest,1,6,2018
+18-08766,1745,6/1/18,Possession of Marijuana,New London Rd/Cleveland Ave,Arrest,1,6,2018
 18-08783,2323,6/1/18,Death Investigation,Trabant University Center,Pending,1,6,2018
 18-08798,0148,6/2/18,Damaged Property,George Read Hall,Prosecution Declined,2,6,2018
 18-08815,1026,6/2/18,Damaged Property,Louis Redding Hall,Pending,2,6,2018
@@ -1303,7 +1303,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-09050,0754,6/5/18,Theft,Harker ISE Lab,Arrest,5,6,2018
 18-09088,0742,6/7/18,Trespass,Hullihen Hall,Exceptionally Clear,7,6,2018
 18-09101,1342,5/29/18,Motor Vehicle Collision (Hit & Run),Perkins Parking Garage,Pending,29,5,2018
-18-09133,0135,6/8/18,DUI,Wyoming Rd/Early Leaning Center,Arrest,8,6,2018
+18-09133,0135,6/8/18,DUI,Early Learning Center,Arrest,8,6,2018
 18-09181,2247,6/8/18,Receiving Stolen Property,Academy St/E Delaware Ave,Arrest,8,6,2018
 18-09186,0246,6/9/18,Rape,Marriot Hotel,Pending,9,6,2018
 18-09188,0444,6/9/18,Trespass,Evans Hall,Arrest,9,6,2018
@@ -1589,7 +1589,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 18-15666,1704,10/12/18,Harassment,Christiana Towers,Pending,12,10,2018
 18-15676,2024,10/12/18,Alcohol Violation,E Main St,Administrative Sanction,12,10,2018
 18-15686,2249,10/12/18,Alcohol Violation,E Main St,Administrative Sanction,12,10,2018
-18-15689,0113,10/13/18,Underage Consumption,Haines St/Lovett Ave,Administrative Sanction,13,10,2018
+18-15689,0113,10/13/18,Underage Consumption,Lovett Ave/Haines St,Administrative Sanction,13,10,2018
 18-15691,0127,10/13/18,Underage Consumption,Ray Street Hall A,Administrative Sanction,13,10,2018
 18-15710,1137,10/13/18,Motor Vehicle Collision (Hit & Run),Ice Arena Parking Lot,Pending,13,10,2018
 18-15772,0256,10/14/18,Underage Consumption,George Read Hall,Administrative Sanction,14,10,2018
@@ -1781,7 +1781,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-00172,0139,1/5/19,DUI,E Delaware Ave,Arrest,5,1,2019
 19-00182,1202,1/5/19,Possession of Marijuana,Academy St/Lovett Ave,Civil Assessment,5,1,2019
 19-00199,2119,1/5/19,Fugitive,Elkton Rd/Thorn Ln,Arrest,5,1,2019
-19-00283,1002,1/7/18,Harassment,UD Computing Center,Pending,7,1,2018
+19-00283,1002,1/7/18,Harassment,Computing Center,Pending,7,1,2018
 19-00315,0754,1/7/19,Motor Vehicle Collision (Hit & Run),Sharp Lab,Service Clear,7,1,2019
 19-00352,1109,1/9/19,Assist Other Agency,UDPD,Administrative Sanction,9,1,2019
 19-00380,2248,1/9/19,Fugitive,STAR Campus,Arrest,9,1,2019
@@ -1828,7 +1828,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-01798,0008,2/12/19,Traffic Violation/Fugitve,Academy St/Lovett Ave,Adult Arrest,12,2,2019
 19-01852,2341,2/12/19,Possession of Marijuana,Academy St/Lovett Ave,Civil Assessment,12,2,2019
 19-01884,1149,2/13/19,Theft,Ray Street Hall C,Pending,13,2,2019
-19-01891,1435,2/13/19,Trespass,Academy Building,Arrest,13,2,2019
+19-01891,1435,2/13/19,Trespass,Academy Residence Hall,Arrest,13,2,2019
 19-01898,1645,2/13/19,Fugitive,S College Ave/Discovery Blvd,Exceptionally Clear,13,2,2019
 19-01922,0043,2/14/19,Underage Consumption,Russell A,Administrative Sanction,14,2,2019
 19-01939,1029,2/14/19,Underage Consumption,Cannon Hall,Administrative Sanction,14,2,2019
@@ -1880,7 +1880,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-02625,2224,2/26/19,Underage Consumption,Harrington Hall B,Administrative Sanction,26,2,2019
 19-02630,0014,2/27/19,Underage Consumption,Lane Hall,Administrative Sanction,27,2,2019
 19-02638,0136,2/27/19,DUI,Library Ave/Farm Ln,Arrest,27,2,2019
-19-02697,0403,2/28/19,Assist Other Agency,220 S Main St,Service Clear,28,2,2019
+19-02697,0403,2/28/19,Assist Other Agency,S Main St,Service Clear,28,2,2019
 19-02704,0830,2/28/19,Theft,Christiana Towers,Pending,28,2,2019
 19-02729,1504,2/28/19,Offensive Touching,Hugh Morris Library,Arrest,28,2,2019
 19-02749,0050,3/1/19,Alcohol Violation,E Delaware Ave,Administrative Sanction,1,3,2019
@@ -1985,7 +1985,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-04908,0022,4/5/19,Fugitive,W Park Pl/Indian Rd,Arrest,5,4,2019
 19-04915,0141,4/5/19,DUI,Library Ave/Farm Ln,Arrest,5,4,2019
 19-05046,1934,3/30/19,Theft,Ray Street Hall A,Pending,30,3,2019
-19-05124,2029,4/8/19,Possession of Marijuana,Wyoming South Lot,Civil Assessment,8,4,2019
+19-05124,2029,4/8/19,Possession of Marijuana,General Services Parking Lot,Civil Assessment,8,4,2019
 19-05138,0221,4/9/19,Underage Consumption,Cannon Hall,Administrative Sanction,9,4,2019
 19-05143,0406,4/9/19,Underage Consumption,Thomas McKean Hall,Administrative Sanction,9,4,2019
 19-05164,1141,4/9/19,Attempted Extortion,Townsend Hall,Pending,9,4,2019
@@ -2186,7 +2186,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-08425,1256,6/3/19,Disorderly Conduct,Lerner Hall,Exceptionally Clear,3,6,2019
 19-08433,1527,6/3/19,DUI,I-95/896,Arrest,3,6,2019
 19-08435,1634,5/28/19,Theft,Pencader Dining Hall,Pending,28,5,2019
-19-08526,0023,6/6/19,DUI,East Cleveland Ave,Arrest,6,6,2019
+19-08526,0023,6/6/19,DUI,E Cleveland Ave,Arrest,6,6,2019
 19-08533,0847,5/4/19,Theft,STAR Campus,Pending,4,5,2019
 19-08574,0130,6/7/19,DUI,S College Ave/Ritter Ln,Arrest,7,6,2019
 19-08590,1609,5/30/19,Harassment,Worrilow Hall,Pending,30,5,2019
@@ -2212,7 +2212,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-09336,1446,6/24/19,Possession of Marijuana,Academy St/E Delaware Ave,Civil Assessment,24,6,2019
 19-09363,0711,6/25/19,Graffiti,Trabant University Center,Pending,25,6,2019
 19-09475,2012,6/27/19,Possession of Marijuana,Academy St/E Park Pl,Civil Assessment,27,6,2019
-19-09489,0650,6/28/19,Theft,College School Parking Lot,Pending,28,6,2019
+19-09489,0650,6/28/19,Theft,General Services Parking Lot,Pending,28,6,2019
 19-09559,0017,6/30/19,DUI,East Delaware Ave/Library Ave,Arrest,30,6,2019
 19-09583,0018,7/1/19,Resisting Arrest,Elkton Rd/ Christiana Pkwy,Arrest,1,7,2019
 19-09587,0157,7/1/19,Public Intoxication,East Delaware Ave/S Chapel St,Arrest,1,7,2019
@@ -2266,7 +2266,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-11370,2210,8/8/19,Receiving Stolen Property,Sypherd Hall,Pending,8,8,2019
 19-11387,0607,8/9/19,Damaged Property,Harrington Commons,Pending,9,8,2019
 19-11393,1013,6/16/19,Fraud,Allison Hall,Pending,16,6,2019
-19-11422,0440,8/10/20,Fugitive,WaWa,Arrest,10,8,2020
+19-11422,0440,8/10/20,Fugitive,WAWA,Arrest,10,8,2020
 19-11442,2104,8/10/20,DUI,General Services Parking Lot,Arrest,10,8,2020
 19-11472,0617,8/10/19,Theft,Worrilow Hall,Exceptionally Clear,10,8,2019
 19-11482,1053,8/12/19,Theft,Hugh Morris Library,Pending,12,8,2019
@@ -2346,7 +2346,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-12749,1446,9/1/19,Offensive Touching,Russell E,Exceptionally Clear,1,9,2019
 19-12747,1532,8/27/19,Theft,Sharp Lab,Pending,27,8,2019
 19-12761,2037,8/28/19,Harassment,Harrington Hall C,Exceptionally Clear,28,8,2019
-19-12769,0129,9/2/19,Disorderly Conduct,Indepencence Bridge,Administrative Sanction,2,9,2019
+19-12769,0129,9/2/19,Disorderly Conduct,Independence Hall,Administrative Sanction,2,9,2019
 19-12774,0308,9/2/19,Underage Consumption,South Academy Residence Hall,Administrative Sanction,2,9,2019
 19-12800,1708,9/2/19,Damaged Property,Laird Campus,Pending,2,9,2019
 19-12809,2112,9/2/19,Disorderly Conduct,Russell A,Exceptionally Clear,2,9,2019
@@ -2356,7 +2356,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-12857,1819,9/3/19,Theft,Purnell Hall,Pending,3,9,2019
 19-12864,2103,9/3/19,Possession of Marijuana,Christiana Towers,Administrative Sanction,3,9,2019
 19-12917,1442,8/26/19,Terroristic Threatening,Willard Hall,Pending,26,8,2019
-19-12918,1444,9/3/19,Graffiti,UD Downtown Center,Pending,3,9,2019
+19-12918,1444,9/3/19,Graffiti,Downtown Center,Pending,3,9,2019
 19-12933,2119,9/4/19,Motor Vehicle Collision (Hit & Run),Center for the Arts,Pending,4,9,2019
 19-12940,2236,9/4/19,Possession of Marijuana,ROTC,Civil Assessment,4,9,2019
 19-12971,0825,9/4/19,Graffiti,Mechanical Hall,Pending,4,9,2019
@@ -2524,7 +2524,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-15268,1610,10/9/19,Shoplifting,Barnes & Noble Bookstore,Pending,9,10,2019
 19-15269,1626,10/11/19,Damaged Property,Frazer Field,Unfounded,11,10,2019
 19-15292,2251,10/11/19,Motor Vehicle Collision (Hit & Run),Ice Arena Parking Lot,Arrest,11,10,2019
-19-15295,2317,10/11/19,Possession of Marijuana,E. Cleveland Ave,Administrative Sanction,11,10,2019
+19-15295,2317,10/11/19,Possession of Marijuana,E Cleveland Ave,Administrative Sanction,11,10,2019
 19-15304,0103,10/12/19,Disorderly Conduct,Brown Lab,Administrative Sanction,12,10,2019
 19-15316,1053,10/12/19,Damaged Property,UCA,Pending,12,10,2019
 19-15318,1125,10/11/19,Graffiti,South Academy Residence Hall,Pending,11,10,2019
@@ -2639,7 +2639,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 19-17005,0048,11/9/19,Underage Consumption,Gilbert Hall,Administrative Sanction,9,11,2019
 19-17007,0118,11/9/19,Underage Consumption,Lane Hall,Administrative Sanction,9,11,2019
 19-17010,0140,11/9/19,Underage Consumption,Smyth Hall,Administrative Sanction,9,11,2019
-19-17060,1608,11/9/19,Damaged Property,Blue Grass Lot,Pending,9,11,2019
+19-17060,1608,11/9/19,Damaged Property,General Services Parking Lot,Pending,9,11,2019
 19-17106,0131,11/10/19,DUI,Ed Fine Parking Lot,Arrest,10,11,2019
 19-17108,0135,11/10/19,Damaged Property,Louis Redding Hall,Pending,10,11,2019
 19-17194,1111,11/8/19,Theft,Harrington Hall A,Pending,8,11,2019
@@ -2846,7 +2846,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-03751,0508,3/8/20,Underage Consumption,George Read Hall,Exceptionally Clear,8,3,2020
 20-03895,1704,3/7/20,Harassment,Independence Hall West,Exceptionally Clear,7,3,2020
 20-03906,2243,3/10/20,Trespass,Russell A,Exceptionally Clear,10,3,2020
-20-03929,1257,3/11/20,Harassment,UD Downtown Center,Pending,11,3,2020
+20-03929,1257,3/11/20,Harassment,Downtown Center,Pending,11,3,2020
 20-03938,1941,3/7/20,Graffiti,Smyth Hall,Pending,7,3,2020
 20-03962,0219,3/12/20,Terroristic Threatening,Independence Hall West,Exceptionally Clear,12,3,2020
 20-03963,0243,3/12/20,Underage Consumption,University Courtyard Apartments,Administrative Sanctions,12,3,2020
@@ -2902,7 +2902,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-06941,0146,5/31/20,Assist Other Agency,Compassionate Care Research Institute,Service Clear,31,5,2020
 20-06989,1305,5/25/20,Theft,Perkins Student Center,Pending,25,5,2020
 20-07103,0744,6/4/20,Trespass,University Courtyard Apartments,Adminstrative Sanctions,4,6,2020
-20-07149,0905,6/3/20,Harassment,Academy Building,Pending,3,6,2020
+20-07149,0905,6/3/20,Harassment,Academy Residence Hall,Pending,3,6,2020
 20-07211,1139,6/6/20,DUI,Perkins Parking Garage,Arrest,6,6,2020
 20-07243,0147,6/7/20,Receiving Stolen Property,E Main St,Administrative Sanction,7,6,2020
 20-07334,0527,6/9/20,Assist Other Agency,Cambridge Dr/New London Rd,Service Clear,9,6,2020
@@ -2912,7 +2912,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-07678,1424,6/17/20,Trespass,Thomas McKean Hall,Administrative Sanction,17,6,2020
 20-07708,1144,6/12/20,Trespass,Brown Lab,Administrative Sanction,12,6,2020
 20-07846,1956,6/21/20,Damaged Property,Lot #50,Pending,21,6,2020
-20-08062,0716,6/28/20,Trespass,Academy Building,Exceptionally Clear,28,6,2020
+20-08062,0716,6/28/20,Trespass,Academy Residence Hall,Exceptionally Clear,28,6,2020
 20-08271,0015,7/5/20,Traffic Violation/Fugitve,David Hollowell Dr/ New London Rd,Arrest,5,7,2020
 20-08353,1319,7/7/20,Trespass,University Courtyard Apartments,Exceptionally Clear,7,7,2020
 20-08434,2256,7/9/20,Loitering,Delaware Field House,Exceptionallty Clear,9,7,2020
@@ -2934,7 +2934,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-09961,0839,8/25/20,Offensive Touching,Independence Hall East,Exceptionally Clear,25,8,2020
 20-10072,1011,8/22/20,Shoplifting,Barnes & Noble Bookstore,Pending,22,8,2020
 20-10097,2341,8/27/20,Public Intoxication,Choate St,Administrative Sanction,27,8,2020
-20-10102,0148,8/28/20,Public Intoxication,East Cleveland Ave,Administrative Sanction,28,8,2020
+20-10102,0148,8/28/20,Public Intoxication,E Cleveland Ave,Administrative Sanction,28,8,2020
 20-10140,1530,8/28/20,Trespass,Student Services Building,Arrest,28,8,2020
 20-10175,0353,8/29/20,DUI,East Delaware Ave/S Chapel St,Arrest,29,8,2020
 20-10236,2247,8/29/20,Underage Consumption,University Courtyard Apartments,Administrative Sanction,29,8,2020
@@ -2961,7 +2961,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-10972,2341,9/11/20,Public Intoxication,N College Ave,Administrative Sanction,11,9,2020
 20-10981,0049,9/13/20,DUI,N Chapel St/Cleveland Ave,Arrest,13,9,2020
 20-10988,0242,9/13/20,Public Intoxication,Easton Apartment Complex,Administrative Sanction,13,9,2020
-20-11062,1630,9/9/20,Damaged Property,Independence Turf,Pending,9,9,2020
+20-11062,1630,9/9/20,Damaged Property,Independence Hall Field,Pending,9,9,2020
 20-11107,0746,9/16/20,Trespass,Central Green Construction Site,Pending,16,9,2020
 20-11113,0859,9/16/20,Theft,Harrington Commons,Pending,16,9,2020
 20-011122,1222,9/16/20,Damaged Property,Harrington Commons,Pending,16,9,2020
@@ -2972,7 +2972,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-11199,2325,9/17/20,Public Intoxication,E Main St,Administrative Sanction,17,9,2020
 20-11203,0042,9/18/20,Public Intoxication,Choate St,Administrative Sanction,18,9,2020
 20-11205,0123,9/18/20,Public Intoxication,Choate St,Administrative Sanction,18,9,2020
-20-11261,2329,9/18/20,Public Intoxication,East Cleveland Ave,Administrative Sanction,18,9,2020
+20-11261,2329,9/18/20,Public Intoxication,E Cleveland Ave,Administrative Sanction,18,9,2020
 20-11307,2320,9/19/20,Public Intoxication,E Cleveland Ave,Administrative Sanction,19,9,2020
 20-11382,0141,9/22/20,Theft,Harrington Commons,Administrative Sanction,22,9,2020
 20-11503,2017,9/24/20,Theft,George Read Hall,Pending,24,9,2020
@@ -3050,7 +3050,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 20-13638,1728,11/13/20,Damaged Property,Thomas McKean Hall,Pending,13,11,2020
 20-13648,2316,11/13/20,Public Intoxication,Church St,Administrative Sanction,13,11,2020
 20-13680,1751,11/14/20,Theft,University Courtyard Apartments,Arrest,14,11,2020
-20-13692,2150,11/14/20,Public Intoxication,"127 East Cleveland Ave, Newark, DE 19711      (Exterior)",Administrative Sanction,14,11,2020
+20-13692,2150,11/14/20,Public Intoxication,E Cleveland Ave,Administrative Sanction,14,11,2020
 20-13714,1729,11/15/20,Trespass,Delaware Field House,Exceptionally Clear,15,11,2020
 20-13845,1855,11/15/20,Theft,University Courtyard Apartments,Pending,15,11,2020
 20-13856,0846,11/19/20,Graffiti,Clayton Hall,Pending,19,11,2020
@@ -3108,7 +3108,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-01506,2006,2/15/21,Disorderly Conduct,Independence Hall West,Administrative Sanction,15,2,2021
 21-01517,2340,2/17/21,Public Intoxication,S Chapel St,Administrative Sanction,17,2,2021
 21-01518,2358,2/17/21,Public Intoxication,Annabelle St,Administrative Sanction,17,2,2021
-21-01547,2304,2/19/21,Public Intoxication,Main St Court Apartments,Administrative Sanction,19,2,2021
+21-01547,2304,2/19/21,Public Intoxication,Main Street Court Apartments,Administrative Sanction,19,2,2021
 21-01567,0952,2/17/21,Motor Vehicle Collision (Hit & Run),Motor Pool,Pending,17,2,2021
 21-01573,1300,2/11/21,Theft,CFA Parking Garage,Pending,11,2,2021
 21-01586,2323,2/19/21,Possession of Marijuana,Independence Hall,Administrative Sanction,19,2,2021
@@ -3132,9 +3132,9 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-01841,0126,2/26/21,Public Intoxication,E Main St,Administrative Sanction,26,2,2021
 21-01842,0209,2/26/21,Disorderly Conduct,Perkins Student Center,Administrative Sanction,26,2,2021
 21-01895,2117,2/26/21,Receiving Stolen Property,Harrington Hall C,Administrative Sanction,26,2,2021
-21-01907,0102,2/27/21,Disorderly Conduct,S. Main St,Administrative Sanction,27,2,2021
+21-01907,0102,2/27/21,Disorderly Conduct,S Main St,Administrative Sanction,27,2,2021
 21-01908,0110,2/27/21,Public Intoxication,University Courtyard Apartments,Administrative Sanction,27,2,2021
-21-01927,1611,2/27/21,Public Intoxication,Wawa,Pending,27,2,2021
+21-01927,1611,2/27/21,Public Intoxication,WAWA,Pending,27,2,2021
 21-01948,2318,2/27/21,Loud Party,Hamlet Wy,Administrative Sanction,27,2,2021
 21-01953,2358,2/27/21,Disorderly Conduct,Klondike Kate's,Arrest,27,2,2021
 21-01961,0100,2/28/21,Underage Consumption,South Academy Residence Hall,Administrative Sanction,28,2,2021
@@ -3204,11 +3204,11 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-03353,2257,3/26/21,Unruly Gathering/Unlawful Large Gathering,The Waverly Apts,Administrative Sanction,26,3,2021
 21-03354,2316,3/26/21,Unruly Gathering/Unlawful Large Gathering,S College Ave,Administrative Sanction,26,3,2021
 21-03360,0107,3/27/21,Underage Consumption,Harrington Commons,Administrative Sanction,27,3,2021
-21-03362,0120,3/27/21,Public Intoxication,Unit Block E. Cleveland Avenue,Administrative Sanction,27,3,2021
+21-03362,0120,3/27/21,Public Intoxication,E Cleveland Ave,Administrative Sanction,27,3,2021
 21-03368,0155,3/27/21,Disorderly Conduct,Harrington Commons,Administrative Sanction,27,3,2021
 21-03369,0202,3/27/21,Underage Consumption,Allison Hall,Arrest,27,3,2021
 21-03371,0232,3/27/21,Damaged Property,Lane Hall,Pending,27,3,2021
-213428,0004,3/27/21,Unruly Gathering/Unlawful Large Gathering,200 Block W. Main Street,Administrative Sanction,27,3,2021
+213428,0004,3/27/21,Unruly Gathering/Unlawful Large Gathering,W Main St,Administrative Sanction,27,3,2021
 21-03439,0333,3/27/21,Underage Consumption,Independence Hall East,Administrative Sanction,27,3,2021
 21-03443,0509,3/27/21,DUI,Sypherd Hall,Arrest,27,3,2021
 21-03446,0740,3/28/21,Trespass,Maintenance Center,Pending,28,3,2021
@@ -3218,7 +3218,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-03507,1943,3/25/21,Sexual Assault,George Read Hall,Pending,25,3,2021
 21-03618,0945,3/31/21,Theft,University Courtyard Apartments,Pending,31,3,2021
 21-03637,1901,4/1/21,Unruly Gathering/Unlawful Large Gathering,W Main St,Administrative Sanction,1,4,2021
-21-03698,2334,4/2/21,Public Intoxication,Kershaw St/Cleveland Ave,Administrative Sanction,2,4,2021
+21-03698,2334,4/2/21,Public Intoxication,Cleveland Ave/Kershaw St,Administrative Sanction,2,4,2021
 21-03709,0417,4/3/21,Public Intoxication,Graham Hall,Administrative Sanction,3,4,2021
 21-03762,1825,3/27/21,Theft,University Courtyard Apartments,Pending,27,3,2021
 21-03763,1848,3/27/21,Theft,Sypherd Hall,Pending,27,3,2021
@@ -3235,7 +3235,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-04181,1630,4/10/21,Trespass,Harter Hall,Administrative Sanction,10,4,2021
 21-04190,2221,4/12/21,Possession of Marijuana,Delaware Ave/Tyre Ave,Civil Assessment,12,4,2021
 21-04228,2001,4/13/21,Trespass,Trabant University Center,Exceptionally Clear,13,4,2021
-21-04253,1149,4/13/21,Graffiti,Maintenance Shop,Pending,13,4,2021
+21-04253,1149,4/13/21,Graffiti,Maintenance Center,Pending,13,4,2021
 21-04312,1745,4/15/21,Theft,Lot #52,Arrest,15,4,2021
 21-04331,0210,4/16/21,Public Intoxication,E Cleveland Ave,Administrative Sanctyion,16,4,2021
 21-04367,2038,4/16/21,Possession of Marijuana,E Park Pl/ S Chapel St,Civil Assessment,16,4,2021
@@ -3312,7 +3312,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-05885,1941,5/22/21,Open Container,Center St,Administrative Sanction,22,5,2021
 21-05889,2045,5/22/21,Underage Consumption,Smyth Hall,Administrative Sanction,22,5,2021
 21-05907,0314,5/23/20,Damaged Property,Choate St,Pending,23,5,2020
-21-05941,2149,5/23/20,Public Intoxication,Amstel Wy,Administrative Sanction,23,5,2020
+21-05941,2149,5/23/20,Public Intoxication,Amstel Ave,Administrative Sanction,23,5,2020
 21-05980,1758,5/24/21,Harassment,James Smith Hall,Pending,24,5,2021
 21-06039,2348,5/25/21,Trespass,Smith Hall,Administrative Sanction,25,5,2021
 21-06040,2359,5/25/21,Trespass,Trabant University Center,Exceptionally Clear,25,5,2021
@@ -3349,7 +3349,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 -1007764,0324,7/17/21,Disregard Police Officer's Command to Stop,S Main St/W Park Pl,Pending,17,7,2021
 21-07871,1423,7/20/21,Damaged Property,Christiana Towers,Pending,20,7,2021
 21-07983,0416,7/24/21,Damaged Property,Hullihen Hall,Pending,24,7,2021
-21-08133,0742,7/29/21,Harassment,Academy Building,Administrative Sanction,29,7,2021
+21-08133,0742,7/29/21,Harassment,Academy Residence Hall,Administrative Sanction,29,7,2021
 21-08205,1244,7/31/21,Possession of a Controlled Substance/ Drug Paraphernalia,W Park Pl/S College Ave,Civil Assessment,31,7,2021
 21-08344,2314,8/3/21,Possession of Marijuana,Lot #6,Civil Assessment,3,8,2021
 21-08465,0812,6/5/21,Damaged Property,Caesar Rodney Residence Hall,Pending Inactive,5,6,2021
@@ -3513,7 +3513,7 @@ Incident #,Time,Date Occurred,Description,Location,Disposition,Day Occurred,Mont
 21-11658,1449,10/8/21,Theft,Taylor Hall,Pending,8,10,2021
 21-11663,1636,10/11/21,Fraud,Trabant University Center,Pending,11,10,2021
 21-11686,0137,10/12/20,Underage Consumption,Smyth Hall,Administrative Sanction,12,10,2020
-21-11717,1552,10/12/20,Motor Vehicle Collision (Hit & Run),Academy Building,Pending,12,10,2020
+21-11717,1552,10/12/20,Motor Vehicle Collision (Hit & Run),Academy Residence Hall,Pending,12,10,2020
 21-11765,1430,9/3/21,Theft,UDPD,Pending,3,9,2021
 21-11800,1037,10/14/21,Theft,Lot #6,Pending,14,10,2021
 21-11834,0112,10/15/21,Underage Consumption,South Academy Residence Hall,Administrative Sanction,15,10,2021
